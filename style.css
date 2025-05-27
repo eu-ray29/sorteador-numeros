@@ -150,7 +150,7 @@ button:disabled {
     }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 460px) {
     .container {
         width: 90%;
         height: 95%;
