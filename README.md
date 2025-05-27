@@ -1,12 +1,12 @@
-🎲 Sorteador de Números
+# 🎲 Sorteador de Números
 
 Um projeto simples de sorteador de números aleatórios, feito com HTML, CSS e JavaScript. 
 
-📸 Demonstração
+## 📸 Demonstração
 
 (https://sorteador-numeros-silk.vercel.app/)
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 Campo para definir quantidade de números a serem sorteados
 
@@ -17,7 +17,7 @@ Botão para gerar os números aleatórios
 Botão para reiniciar o sorteio
 
 
-🧪 Tecnologias Utilizadas
+## 🧪 Tecnologias Utilizadas
 
 HTML5 – estrutura do projeto
 
@@ -25,7 +25,7 @@ CSS3 – estilização da interface
 
 JavaScript – lógica do gerador de números e geração dos números aleatorios
 
-📂 Estrutura de Arquivos
+## 📂 Estrutura de Arquivos
 
 sorteador-numeros/
 │
@@ -33,7 +33,7 @@ sorteador-numeros/
 ├── style.css          # Estilos da interface
 └── app.js          # Lógica de sorteio em JavaScript
 
-💡 Exemplos de Uso
+## 💡 Exemplos de Uso
 
 Sorteios em eventos ou reuniões
 
@@ -41,7 +41,7 @@ Brincadeiras com amigos
 
 Números aleatórios para testes e jogos
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT.Sinta-se livre para usar, modificar e compartilhar!
 
